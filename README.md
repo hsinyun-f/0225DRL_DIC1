@@ -11,7 +11,7 @@ Today, I designed, developed, and deployed a premium personal single-page websit
 
 ### 1. Visual Design & Asset Generation
 - **Custom Background**: Generated a high-definition, premium abstract background with iridescent gradients and fluid shapes to provide a sophisticated dark-themed look.
-- **Image Integration**: Processed and integrated the generated image as `bg.png`.
+- **Image Integration**: Processed and integrated the generated image as `background.png`.
 
 ### 2. Frontend Development
 - **HTML5 Foundation**: Created `index.html` using semantic HTML, SEO meta tags, and premium typography from Google Fonts (Outfit & Playfair Display).
@@ -41,9 +41,9 @@ Today, I designed, developed, and deployed a premium personal single-page websit
 - `index.html`: Core structure.
 - `style.css`: Visual styling.
 - `script.js`: Interactive behavior.
-- `bg.png`: Generated background asset.
+- `background.png`: Generated background asset.
 - `homepage.png`: Screenshot of the resulting homepage.
-- `summary.md`: This project summary.
+- `README.md`: This project summary.
 
 ## 🖼️ Resulting Homepage
 ![HsinYun Fang Homepage](homepage.png)
